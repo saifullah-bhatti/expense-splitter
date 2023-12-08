@@ -1,0 +1,29 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #3498d8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Align the content in the center */
+}
+h1, h2 {
+    color: #3498db;
+}
+.newStyle1 {
+    display: block; /* Display the text in a new line */
+    color: #fff; /* Set the text color */
+    font-weight: bold;
+    /* Add any additional styles you need for the text */
+}
+p {
+    line-height: 1.6;
+}

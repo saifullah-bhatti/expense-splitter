@@ -1,0 +1,76 @@
+﻿.auto-style2 {
+    text-align: justify;
+}
+
+.auto-style3 {
+    width: 300px;
+    height: 205px;
+    margin-left: 100px;
+    margin-top: 4px;
+}
+
+.auto-style4 {
+    width: 300px;
+    height: 205px;
+    margin-left: 100px;
+}
+
+.image-container {
+    text-align: center; /* Center the images horizontally */
+    margin: 20px 0; /* Add some margin for spacing */
+}
+
+.auto-style2 {
+    display: inline-block; /* Align images horizontally */
+    margin: 0 10px; /* Add some margin between images */
+}
+
+.split-text {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#features {
+    overflow: auto;
+    padding: 5px;
+}
+
+.box {
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
+
+    .box i {
+        margin-bottom: 2px;
+    }
+
+.auto-style5 {
+    width: 310px;
+    height: 205px;
+    margin-left: 3px;
+}
+
+
+.auto-style6 {
+    width: 310px;
+    height: 205px;
+    margin-left: 9px;
+    margin-top: 4px;
+}
+
+.auto-style7 {
+    width: 310px;
+    height: 205px;
+    margin-left: 4px;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
